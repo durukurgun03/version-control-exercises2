@@ -1,3 +1,4 @@
 to_do
 A) Write report.
-B) Submit report.
+B) Submit final version.
+C) Submit expenses.
